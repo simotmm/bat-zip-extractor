@@ -1,4 +1,4 @@
-# zip-extractor
+# bat zip extractor
 simple bat script to extract all zip files in a folder.
 ## steps
 - step 1: place the 'extract_all.bat' file in the folder that contains the zip archives.
