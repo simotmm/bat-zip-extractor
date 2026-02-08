@@ -1,7 +1,7 @@
+:: configuration
 @echo off
 setlocal enabledelayedexpansion
 
-:: configuration
 set chunk=32
 set worker_timeout=10
 set master_timeout=30
