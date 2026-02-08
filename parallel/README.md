@@ -1,4 +1,4 @@
-# bat zip extractor
+# bat zip extractor: parallel processing version
 simple bat script to extract all zip files in a folder. it works in parallel processes, each process extracts a chunk of data.
 ## steps
 - step 1: place the `parallel_bat_zip_extractor.bat` file in the folder that contains the zip archives.
